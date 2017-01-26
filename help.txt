@@ -1,0 +1,33 @@
+//201564134
+//Arun H Garimella
+
+Instructions
+
+Tilt cannon up : 	A
+Tilt cannon down:	D
+Move cannon up:		S
+Move Cannon down:	F
+Increase speed:		M
+Decrease speed:		N
+Move red block:		Ctrl+left/right arrow key
+Move green block:	Alt +left/right arrow key
+Zoom in:		Up
+Zoom out:		Down
+Shoot:			Space Bar
+Drag Baskets/turret:	Mouse right
+Direct laser:		Mouse left
+Zoom:			Scroll
+
+Scoring:
+
+Laser striking Block 	+30
+Block in right basket 	+20
+Block in both Baskets	0
+Block in Wrong Basket	-10
+BlackBlock Wrong Basket -50
+Black block on ground	-10
+
+Additional Features:
+
+1 Mirror Moving 
+Background music 
